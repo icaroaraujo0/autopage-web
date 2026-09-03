@@ -1,0 +1,42 @@
+body {
+  font-family: arial, sans-serif;
+  background-color: #f2f2f2;
+  text-align: justify;
+  margin: 40px;
+}
+
+* {
+  padding: 5px;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+h2 {
+  color: #3498db;
+}
+
+p {
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+a {
+  display: inline-block;
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.card {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: auto;
+}
